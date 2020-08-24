@@ -1,5 +1,2 @@
 Welcome to Accenture
-<<<<<<< HEAD
-=======
 updated in dev branch
->>>>>>> Dev
