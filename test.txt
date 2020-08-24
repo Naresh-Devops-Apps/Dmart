@@ -1,2 +1,6 @@
 Welcome to Accenture
-Hello i am from Master branch
+<<<<<<< HEAD
+
+=======
+updated in dev branch
+>>>>>>> Dev
